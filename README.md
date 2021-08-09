@@ -1,2 +1,2 @@
 # Basic_of_JS
-How to commit Repo in Github...
+Basic of JavaScript
